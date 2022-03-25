@@ -26,5 +26,9 @@ HTML
 ### Course Page
 ### Login And SignUp Page
 ### Home Page
+User Profile Page
+Task Manager
+Logout Functionality
+
 
 
